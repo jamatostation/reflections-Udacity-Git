@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I believe this asigns a tracking system to the files like the dewey decimal system. We need it so git knows what it is working with.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows you to setup your commits effectively without a gui.

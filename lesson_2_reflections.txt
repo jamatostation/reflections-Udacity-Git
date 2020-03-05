@@ -6,3 +6,29 @@ I believe this asigns a tracking system to the files like the dewey decimal syst
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It allows you to setup your commits effectively without a gui.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+it will let you add just the files relevant to the logically grouped edit rather than everything that was changed.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you are wanting to make two different versions that will continue to be edited in tandem rather that joined back to one program. 
+
+
+How do the diagrams help you visualize the branch structure?
+
+It alows you to see what is happening in tandem vs what isn't
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines two different versions. it is diagrammed this way to show what commits happened to the new merged file even though it was not all committed in a linear way.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+WAAAAAAAY faster. Machines don't make typos
+It will require you to make some decisions if there are two copies of something but some verses all is amazing.

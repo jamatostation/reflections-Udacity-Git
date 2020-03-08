@@ -18,3 +18,8 @@ branches for maintaining multiple versions of something.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 maintaining continuity between them. making tracking easier and making it easy to see the whole picture when coding.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collaborate with a file share service. The pro would be the lack of a learning curve. The con would be that it would be almost impossible to stay organized with any number of non superficial tasks.

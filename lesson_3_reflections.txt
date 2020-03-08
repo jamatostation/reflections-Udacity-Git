@@ -6,3 +6,10 @@ ALWAYS! Isn't that the beauty of computers? Access your work wherever you want.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You could be working on a different version as someone that recently added a change that you do not want.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks for when you are collaborating on something someone else started.
+clones for anything that involves having naother version of something.
+branches for maintaining multiple versions of something.

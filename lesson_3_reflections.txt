@@ -23,3 +23,8 @@ maintaining continuity between them. making tracking easier and making it easy t
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would collaborate with a file share service. The pro would be the lack of a learning curve. The con would be that it would be almost impossible to stay organized with any number of non superficial tasks.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+This will allow you to work on one change while a team mate works on another. This will also allow you to work on two different thoughts without one breaking the other.
